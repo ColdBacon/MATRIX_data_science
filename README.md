@@ -1,2 +1,3 @@
-# MATRIX project about data 
+# MATRIX 
+Project about data science and machine learning.
 
